@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Cabin&family=Dongle:wght@300&family=Prompt:wght@500&display=swap");
+
+body {
+  /* background-color: #000000, opacity 0%; */
+  background: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Cabin", sans-serif;
+  }
+  
